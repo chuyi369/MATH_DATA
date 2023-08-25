@@ -40,6 +40,8 @@ eval
 
 
 
+
+
 The following are related papers and work we have organized：
 
 ## 一、Involves distillation on mathematical reasoning tasks
@@ -60,6 +62,8 @@ The following are related papers and work we have organized：
 
 
 
+
+
 ### 	3. Large Language Models Are Reasoning Teachers（[Namgyu Ho](https://arxiv.org/search/cs?searchtype=author&query=Ho%2C+N), [Laura Schmid](https://arxiv.org/search/cs?searchtype=author&query=Schmid%2C+L), [Se-Young Yun](https://arxiv.org/search/cs?searchtype=author&query=Yun%2C+S)）
 
 ### 	paper：https://arxiv.org/abs/2212.10071
@@ -70,9 +74,13 @@ The following are related papers and work we have organized：
 
 
 
+
+
 ### 	4. PaD: Program-aided Distillation Specializes Large Models in Reasoning（[Xuekai Zhu](https://arxiv.org/search/cs?searchtype=author&query=Zhu%2C+X), [Biqing Qi](https://arxiv.org/search/cs?searchtype=author&query=Qi%2C+B), [Kaiyan Zhang](https://arxiv.org/search/cs?searchtype=author&query=Zhang%2C+K), [Xingwei Long](https://arxiv.org/search/cs?searchtype=author&query=Long%2C+X), [Bowen Zhou](https://arxiv.org/search/cs?searchtype=author&query=Zhou%2C+B)）
 
 ### 	paper：https://arxiv.org/abs/2305.13888
+
+
 
 
 
@@ -84,7 +92,9 @@ The following are related papers and work we have organized：
 
 ### 	code：https://github.com/hendrycks/math
 
-### 	dataset： [**MATH dataset，[**AMPS pretraining dataset **](https://drive.google.com/file/d/1hQsua3TkpEmcJD_UWQx8dmNdEZPyxw23/view?usp=sharing)
+### 	dataset： https://drive.google.com/file/d/1hQsua3TkpEmcJD_UWQx8dmNdEZPyxw23/view?usp=sharing
+
+
 
 
 
@@ -96,11 +106,15 @@ The following are related papers and work we have organized：
 
 
 
+
+
 ### 3. A Neural Network Solves, Explains, and Generates University Math Problems by Program Synthesis and Few-Shot Learning at Human Level（[Iddo Drori](https://arxiv.org/search/cs?searchtype=author&query=Drori%2C+I), [Sarah Zhang](https://arxiv.org/search/cs?searchtype=author&query=Zhang%2C+S), [Reece Shuttleworth](https://arxiv.org/search/cs?searchtype=author&query=Shuttleworth%2C+R), [Leonard Tang](https://arxiv.org/search/cs?searchtype=author&query=Tang%2C+L), [Albert Lu](https://arxiv.org/search/cs?searchtype=author&query=Lu%2C+A), [Elizabeth Ke](https://arxiv.org/search/cs?searchtype=author&query=Ke%2C+E), [Kevin Liu](https://arxiv.org/search/cs?searchtype=author&query=Liu%2C+K), [Linda Chen](https://arxiv.org/search/cs?searchtype=author&query=Chen%2C+L), [Sunny Tran](https://arxiv.org/search/cs?searchtype=author&query=Tran%2C+S), [Newman Cheng](https://arxiv.org/search/cs?searchtype=author&query=Cheng%2C+N), [Roman Wang](https://arxiv.org/search/cs?searchtype=author&query=Wang%2C+R), [Nikhil Singh](https://arxiv.org/search/cs?searchtype=author&query=Singh%2C+N), [Taylor L. Patti](https://arxiv.org/search/cs?searchtype=author&query=Patti%2C+T+L), [Jayson Lynch](https://arxiv.org/search/cs?searchtype=author&query=Lynch%2C+J), [Avi Shporer](https://arxiv.org/search/cs?searchtype=author&query=Shporer%2C+A), [Nakul Verma](https://arxiv.org/search/cs?searchtype=author&query=Verma%2C+N), [Eugene Wu](https://arxiv.org/search/cs?searchtype=author&query=Wu%2C+E), [Gilbert Strang](https://arxiv.org/search/cs?searchtype=author&query=Strang%2C+G)）
 
 ### paper：https://arxiv.org/abs/2112.15594
 
 ### code：https://github.com/idrori/mathq
+
+
 
 
 
@@ -112,11 +126,15 @@ The following are related papers and work we have organized：
 
 
 
+
+
 ### 5.Deductive Verification of Chain-of-Thought Reasoning（Zhan Ling, Yunhao Fang, Xuanlin Li, Zhiao Huang, Mingu Lee, Roland Memisevic, Hao Su）
 
 ### paper：https://arxiv.org/abs/2306.03872
 
 ### dataset：MATH
+
+
 
 
 
@@ -128,9 +146,13 @@ The following are related papers and work we have organized：
 
 
 
+
+
 ### 7.An Empirical Study on Challenging Math Problem Solving with GPT-4 （Yiran Wu, Feiran Jia, Shaokun Zhang, Hangyu Li, Erkang Zhu, Yue Wang, Yin Tat Lee, Richard Peng, Qingyun Wu, Chi Wang）
 
 ###  paper：https://arxiv.org/abs/2306.01337
+
+
 
 
 
@@ -154,6 +176,8 @@ The following are related papers and work we have organized：
 
 
 
+
+
 ### 2. DRAFT, SKETCH, AND PROVE: GUIDING FORMALTHEOREM PROVERS WITH INFORMAL PROOFS（[Albert Q. Jiang](https://arxiv.org/search/cs?searchtype=author&query=Jiang%2C+A+Q), [Sean Welleck](https://arxiv.org/search/cs?searchtype=author&query=Welleck%2C+S), [Jin Peng Zhou](https://arxiv.org/search/cs?searchtype=author&query=Zhou%2C+J+P), [Wenda Li](https://arxiv.org/search/cs?searchtype=author&query=Li%2C+W), [Jiacheng Liu](https://arxiv.org/search/cs?searchtype=author&query=Liu%2C+J), [Mateja Jamnik](https://arxiv.org/search/cs?searchtype=author&query=Jamnik%2C+M), [Timothée Lacroix](https://arxiv.org/search/cs?searchtype=author&query=Lacroix%2C+T), [Yuhuai Wu](https://arxiv.org/search/cs?searchtype=author&query=Wu%2C+Y), [Guillaume Lample](https://arxiv.org/search/cs?searchtype=author&query=Lample%2C+G)）
 
 #### （ MATH is only used as a source of informal data, a way to map informal proofs to formal proofs）
@@ -163,6 +187,8 @@ The following are related papers and work we have organized：
 ### code：https://github.com/facebookresearch/minif2f
 
 ### 			https://github.com/albertqjiang/draft_sketch_prove
+
+
 
 
 
