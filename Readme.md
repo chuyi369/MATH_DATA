@@ -38,9 +38,7 @@ eval
 
 > bash eval.sh
 
-
-
-
+### 
 
 The following are related papers and work we have organized：
 
@@ -50,7 +48,7 @@ The following are related papers and work we have organized：
 
 ### 	paper：https://arxiv.org/abs/2212.08410
 
-
+### 
 
 ### 	2. Specializing Smaller Language Models towards Multi-Step Reasoning（[Yao Fu](https://arxiv.org/search/cs?searchtype=author&query=Fu%2C+Y), [Hao Peng](https://arxiv.org/search/cs?searchtype=author&query=Peng%2C+H), [Litu Ou](https://arxiv.org/search/cs?searchtype=author&query=Ou%2C+L), [Ashish Sabharwal](https://arxiv.org/search/cs?searchtype=author&query=Sabharwal%2C+A), [Tushar Khot](https://arxiv.org/search/cs?searchtype=author&query=Khot%2C+T)）
 
@@ -60,9 +58,7 @@ The following are related papers and work we have organized：
 
 ### 	dataset：[Google Drive](https://drive.google.com/drive/folders/1BOXcUTnEyvQia_ypHcaUnUbLsN4HzqmQ?usp=sharing)
 
-
-
-
+### 
 
 ### 	3. Large Language Models Are Reasoning Teachers（[Namgyu Ho](https://arxiv.org/search/cs?searchtype=author&query=Ho%2C+N), [Laura Schmid](https://arxiv.org/search/cs?searchtype=author&query=Schmid%2C+L), [Se-Young Yun](https://arxiv.org/search/cs?searchtype=author&query=Yun%2C+S)）
 
@@ -72,17 +68,13 @@ The following are related papers and work we have organized：
 
 ### 	dataset：[Dropbox](https://www.dropbox.com/sh/hwcncpyomx87h20/AACqgVdd-ZzBQ3ncJcKqw0cVa?dl=0) 、 [Google Drive](https://drive.google.com/drive/folders/1C6kah3WV36N8omlUl-TeU9tsJADZNaJV?usp=share_link)
 
-
-
-
+### 
 
 ### 	4. PaD: Program-aided Distillation Specializes Large Models in Reasoning（[Xuekai Zhu](https://arxiv.org/search/cs?searchtype=author&query=Zhu%2C+X), [Biqing Qi](https://arxiv.org/search/cs?searchtype=author&query=Qi%2C+B), [Kaiyan Zhang](https://arxiv.org/search/cs?searchtype=author&query=Zhang%2C+K), [Xingwei Long](https://arxiv.org/search/cs?searchtype=author&query=Long%2C+X), [Bowen Zhou](https://arxiv.org/search/cs?searchtype=author&query=Zhou%2C+B)）
 
 ### 	paper：https://arxiv.org/abs/2305.13888
 
-
-
-
+### 
 
 ## 二、Experiment on the MATH dataset
 
@@ -94,9 +86,7 @@ The following are related papers and work we have organized：
 
 ### 	dataset： https://drive.google.com/file/d/1hQsua3TkpEmcJD_UWQx8dmNdEZPyxw23/view?usp=sharing
 
-
-
-
+### 
 
 ### 	2.  Sparks of Artificial General Intelligence: Early experiments with GPT-4（[Sébastien Bubeck](https://arxiv.org/search/cs?searchtype=author&query=Bubeck%2C+S), [Varun Chandrasekaran](https://arxiv.org/search/cs?searchtype=author&query=Chandrasekaran%2C+V), [Ronen Eldan](https://arxiv.org/search/cs?searchtype=author&query=Eldan%2C+R), [Johannes Gehrke](https://arxiv.org/search/cs?searchtype=author&query=Gehrke%2C+J), [Eric Horvitz](https://arxiv.org/search/cs?searchtype=author&query=Horvitz%2C+E), [Ece Kamar](https://arxiv.org/search/cs?searchtype=author&query=Kamar%2C+E), [Peter Lee](https://arxiv.org/search/cs?searchtype=author&query=Lee%2C+P), [Yin Tat Lee](https://arxiv.org/search/cs?searchtype=author&query=Lee%2C+Y+T), [Yuanzhi Li](https://arxiv.org/search/cs?searchtype=author&query=Li%2C+Y), [Scott Lundberg](https://arxiv.org/search/cs?searchtype=author&query=Lundberg%2C+S), [Harsha Nori](https://arxiv.org/search/cs?searchtype=author&query=Nori%2C+H), [Hamid Palangi](https://arxiv.org/search/cs?searchtype=author&query=Palangi%2C+H), [Marco Tulio Ribeiro](https://arxiv.org/search/cs?searchtype=author&query=Ribeiro%2C+M+T), [Yi Zhang](https://arxiv.org/search/cs?searchtype=author&query=Zhang%2C+Y)）
 
@@ -104,9 +94,7 @@ The following are related papers and work we have organized：
 
 ### 	code：https://github.com/guidance-ai/guidance
 
-
-
-
+### 
 
 ### 3. A Neural Network Solves, Explains, and Generates University Math Problems by Program Synthesis and Few-Shot Learning at Human Level（[Iddo Drori](https://arxiv.org/search/cs?searchtype=author&query=Drori%2C+I), [Sarah Zhang](https://arxiv.org/search/cs?searchtype=author&query=Zhang%2C+S), [Reece Shuttleworth](https://arxiv.org/search/cs?searchtype=author&query=Shuttleworth%2C+R), [Leonard Tang](https://arxiv.org/search/cs?searchtype=author&query=Tang%2C+L), [Albert Lu](https://arxiv.org/search/cs?searchtype=author&query=Lu%2C+A), [Elizabeth Ke](https://arxiv.org/search/cs?searchtype=author&query=Ke%2C+E), [Kevin Liu](https://arxiv.org/search/cs?searchtype=author&query=Liu%2C+K), [Linda Chen](https://arxiv.org/search/cs?searchtype=author&query=Chen%2C+L), [Sunny Tran](https://arxiv.org/search/cs?searchtype=author&query=Tran%2C+S), [Newman Cheng](https://arxiv.org/search/cs?searchtype=author&query=Cheng%2C+N), [Roman Wang](https://arxiv.org/search/cs?searchtype=author&query=Wang%2C+R), [Nikhil Singh](https://arxiv.org/search/cs?searchtype=author&query=Singh%2C+N), [Taylor L. Patti](https://arxiv.org/search/cs?searchtype=author&query=Patti%2C+T+L), [Jayson Lynch](https://arxiv.org/search/cs?searchtype=author&query=Lynch%2C+J), [Avi Shporer](https://arxiv.org/search/cs?searchtype=author&query=Shporer%2C+A), [Nakul Verma](https://arxiv.org/search/cs?searchtype=author&query=Verma%2C+N), [Eugene Wu](https://arxiv.org/search/cs?searchtype=author&query=Wu%2C+E), [Gilbert Strang](https://arxiv.org/search/cs?searchtype=author&query=Strang%2C+G)）
 
@@ -114,9 +102,7 @@ The following are related papers and work we have organized：
 
 ### code：https://github.com/idrori/mathq
 
-
-
-
+### 
 
 ### 4. ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large Language Models（Zhipeng Chen, Kun Zhou, Beichen Zhang, Zheng Gong, Wayne Xin Zhao, Ji-Rong Wen）
 
@@ -124,9 +110,7 @@ The following are related papers and work we have organized：
 
 ### dataset：MATH、HotPotQA
 
-
-
-
+### 
 
 ### 5.Deductive Verification of Chain-of-Thought Reasoning（Zhan Ling, Yunhao Fang, Xuanlin Li, Zhiao Huang, Mingu Lee, Roland Memisevic, Hao Su）
 
@@ -134,9 +118,7 @@ The following are related papers and work we have organized：
 
 ### dataset：MATH
 
-
-
-
+### 
 
 ### 6.CREATOR: Disentangling Abstract and Concrete Reasonings of Large Language Models through Tool Creation（Cheng Qian, Chi Han, Yi R. Fung, Yujia Qin, Zhiyuan Liu, Heng Ji）
 
@@ -144,25 +126,19 @@ The following are related papers and work we have organized：
 
 ### dataset：MATH、TabMWP、Creation Challenge
 
-
-
-
+### 
 
 ### 7.An Empirical Study on Challenging Math Problem Solving with GPT-4 （Yiran Wu, Feiran Jia, Shaokun Zhang, Hangyu Li, Erkang Zhu, Yue Wang, Yin Tat Lee, Richard Peng, Qingyun Wu, Chi Wang）
 
 ###  paper：https://arxiv.org/abs/2306.01337
 
-
-
-
+### 
 
 ### 8.Cost-Effective Hyperparameter Optimization for Large Language Model Generation Inference （Chi Wang, Susan Xueqing Liu, Ahmed H. Awadallah）
 
 ### paper：https://arxiv.org/abs/2303.04673
 
-
-
-
+### 
 
 ## 三、Research work related to MATH
 
@@ -174,9 +150,7 @@ The following are related papers and work we have organized：
 
 ### code：https://github.com/openai/minif2f
 
-
-
-
+### 
 
 ### 2. DRAFT, SKETCH, AND PROVE: GUIDING FORMALTHEOREM PROVERS WITH INFORMAL PROOFS（[Albert Q. Jiang](https://arxiv.org/search/cs?searchtype=author&query=Jiang%2C+A+Q), [Sean Welleck](https://arxiv.org/search/cs?searchtype=author&query=Welleck%2C+S), [Jin Peng Zhou](https://arxiv.org/search/cs?searchtype=author&query=Zhou%2C+J+P), [Wenda Li](https://arxiv.org/search/cs?searchtype=author&query=Li%2C+W), [Jiacheng Liu](https://arxiv.org/search/cs?searchtype=author&query=Liu%2C+J), [Mateja Jamnik](https://arxiv.org/search/cs?searchtype=author&query=Jamnik%2C+M), [Timothée Lacroix](https://arxiv.org/search/cs?searchtype=author&query=Lacroix%2C+T), [Yuhuai Wu](https://arxiv.org/search/cs?searchtype=author&query=Wu%2C+Y), [Guillaume Lample](https://arxiv.org/search/cs?searchtype=author&query=Lample%2C+G)）
 
@@ -188,9 +162,7 @@ The following are related papers and work we have organized：
 
 ### 			https://github.com/albertqjiang/draft_sketch_prove
 
-
-
-
+### 
 
 ### 3.  LAMBADA: Backward Chaining for Automated Reasoning in Natural Language（[Mehran Kazemi](https://arxiv.org/search/cs?searchtype=author&query=Kazemi%2C+M), [Najoung Kim](https://arxiv.org/search/cs?searchtype=author&query=Kim%2C+N), [Deepti Bhatia](https://arxiv.org/search/cs?searchtype=author&query=Bhatia%2C+D), [Xin Xu](https://arxiv.org/search/cs?searchtype=author&query=Xu%2C+X), [Deepak Ramachandran](https://arxiv.org/search/cs?searchtype=author&query=Ramachandran%2C+D)）
 
@@ -198,9 +170,7 @@ The following are related papers and work we have organized：
 
 ### paper：https://arxiv.org/abs/2212.13894
 
-
-
-
+### 
 
 ### 4.AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models（[Wanjun Zhong](https://arxiv.org/search/cs?searchtype=author&query=Zhong%2C+W), [Ruixiang Cui](https://arxiv.org/search/cs?searchtype=author&query=Cui%2C+R), [Yiduo Guo](https://arxiv.org/search/cs?searchtype=author&query=Guo%2C+Y), [Yaobo Liang](https://arxiv.org/search/cs?searchtype=author&query=Liang%2C+Y), [Shuai Lu](https://arxiv.org/search/cs?searchtype=author&query=Lu%2C+S), [Yanlin Wang](https://arxiv.org/search/cs?searchtype=author&query=Wang%2C+Y), [Amin Saied](https://arxiv.org/search/cs?searchtype=author&query=Saied%2C+A), [Weizhu Chen](https://arxiv.org/search/cs?searchtype=author&query=Chen%2C+W), [Nan Duan](https://arxiv.org/search/cs?searchtype=author&query=Duan%2C+N)）
 
